@@ -1,0 +1,184 @@
+body{
+	margin:0;
+	background-color:#F0F0F0  ;
+}
+
+p{
+font-size:0.625em;	
+}
+
+nav ul{
+	margin:0;
+	display:inline;
+}
+
+img{
+	display:inline;
+	padding-bottom:0px;
+}
+
+nav ul li{
+	list-style-type:none;
+	display:inline-block;
+	padding:10px 10px;
+	margin: 5px;
+	
+}
+
+nav li:hover{
+	background:#2397CF;
+	transition:background 0.25s;
+}
+
+.row{
+	
+		padding:5px 50px;
+}
+.Range{
+	background-color:red;
+	width:150px;
+	
+}
+.roww{
+	position:relative;
+	top:400px;
+	
+}
+
+.Footrow{
+	position:relative;
+	left: 100px;
+	top:430px;
+	border:2px;
+}
+#img2{
+	position:absolute;
+	right:133px;
+}
+#nav{
+	
+	position:absolute;
+	top:600px;
+	left:30px;
+	list-style-type:none;
+	padding:10px 10px;
+	margin:0px;
+	
+	
+
+}
+
+#nav li{
+	display:inline-block;
+	padding:0px 120px 0px;
+	margin:0px;
+	font-size:1.563em;
+	background:#dcdcdc;
+	color:black;
+	border:3px;
+	
+}
+
+#nav li:hover{
+	background:#2397CF;
+	transition:background 0.25s;
+}
+
+#bodyWrapper
+{
+	position:absolute;
+	top:700px;
+	left:200px;
+border:2px solid;
+border-radius:25px;
+
+display:inline-block;
+background:#dcdcdc;
+padding: 5px, 5px;
+}
+
+.col{
+	float: left;
+		padding:100px 0px 100px 23px;
+width:37%;
+}
+
+.Bcol{
+	font-size:0.625em;
+	float: left;
+		padding:20px 0px 30px 0px;
+width:50%;
+height:30%;
+
+}
+
+
+
+.BCol{
+	background:gray;
+	
+	float: left;
+	
+	padding:100px;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:5px;
+	
+width:10%;
+height:30%;
+
+	border-width:3px;
+	border-color:white;
+	border-style:solid
+}
+
+.coll{
+	float:left;
+		padding:30px 0px 30px 0px;
+width:30%;
+height:30%;
+}
+
+#col2{
+ background: linear-gradient(to bottom, #DCDCDC 0%,#DCDCDC 50%,#DCDCDC 50%,#D3D3D3 50%,#D3D3D3 100%);
+text-align:center;
+margin:0px;
+font-size:2.813em;
+padding-top:250px;
+font-weight: bold;
+width:720px;
+
+}
+
+#col3{
+border:2px solid;
+background:#cc0000;
+color:white;
+font-size:2.813em;
+padding:30px 40px 15px 15px;
+width:390px;
+}
+
+.Rrow{
+position:absolute;
+top:750px;
+	left:50px;
+	float:left;
+}
+
+span{
+font-weight: bolder;
+}
+
+p{
+font-size:20px;	
+}
+
+
+footer{
+	clear:both;
+}
+
+.Footrow{
+	font-size:1.063em;
+}
